@@ -1,3 +1,3 @@
+Software de vendas
 Console Application que calcula os juros conforme a quantidade de parcelas informada pelo usuário.
-O objetivo é cobrar um juros maior conforme a quantidade de parcelas que o cliente.
-A aplicação contém as condicionais if, else e elif.
+Este é um exercício da disciplina Lógica de Programação e Algoritmos proposto pela minha faculdade cujo objetivo é usar as estruturas condicionais if, else e elif.
