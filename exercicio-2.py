@@ -41,4 +41,5 @@ else: # Juros de 32%
     valorTotalParcelado = valorDaParcela * quantidadeParcelas 
  
     print('O valor das parcelas é de:R$ %.2f' %valorDaParcela) 
+
     print('O valor Total Parcelado é de: R$: %.2f' %valorTotalParcelado) 
